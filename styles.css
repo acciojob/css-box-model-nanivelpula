@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+div{
+	border-style:dashed;
+	border:border 15px solid blue;
+	padding:50px;
+	background-color:lightblue;
+	
+}
+#two{
+	border-style:groove;
+	width:300px;
+	padding:50px;
+	height:150px;
+	
+}
+#three{
+	background:blue;
+	border:15px solid blue;
+}
+#four{
+	background:white;
+	border:1px solid black;
+	margin:20px;
+	
+}
